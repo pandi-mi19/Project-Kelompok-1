@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @pandi-mi19
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Deskripsi Project Kelompok 1
 
-<!---
-pandi-mi19/pandi-mi19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Nama Kelompok :
+Ketua : Pandi Kurniawan
+Anggota : 1.Nur Ikhsan Fajri
+          2.Nurul Khusnia
+          3.Muslim Ma'arif
+          4.Pingko Sony Pratama
+          5.Riski Safitri Handayani
+
+Poject Tugas : Merancang bangun aplikasi basis data menggunakan PHP(standard) dan DBMS MySQL arsitektur 2-TIER (CLIENT-SERVER/BASIS DATA TERPUSAT).
+
+
